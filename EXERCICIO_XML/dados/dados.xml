@@ -1,0 +1,133 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<receita>
+	<contribuente>
+		<cpf>111.111.111-11</cpf>
+		<rg>11.111.111-1</rg>
+		<nome>José Vítor</nome>
+		<data_nasc>14/09/2005</data_nasc>
+		<endereco>
+			<logradouro>Rua X</logradouro>
+			<numero>111</numero>
+			<bairro>Centro</bairro>
+			<cep>09000-000</cep>
+			<cidade>Ribeirão Pires</cidade>
+			<estado>SP</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 1111-1111</telefone>
+			<celular>(11) 91111-1111</celular>
+			<email>josevitor@gmail.com</email>
+		</contato>
+		<renda>R$ 9.999,00</renda>
+		<foto>https://robohash.org/jose</foto>
+		<conta>
+			<ag>111-2</ag>
+			<cc>222222-1</cc>
+		</conta>
+	</contribuente>
+
+		<contribuente>
+		<cpf>222.222.222-22</cpf>
+		<rg>22.222.222-2</rg>
+		<nome>Daniela Dias</nome>
+		<data_nasc>04/12/2005</data_nasc>
+		<endereco>
+			<logradouro>Rua Y</logradouro>
+			<numero>235</numero>
+			<bairro>Centro</bairro>
+			<cep>09320-640</cep>
+			<cidade>Ribeirão Pires</cidade>
+			<estado>SP</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 2222-2222</telefone>
+			<celular>(11) 92222-2222</celular>
+			<email>danielagaeta@gmail.com</email>
+		</contato>
+		<renda>R$ 999.999.999,00</renda>
+		<foto>https://robohash.org/ayaya</foto>
+		<conta>
+			<ag>222-6</ag>
+			<cc>125262-7</cc>
+		</conta>
+	</contribuente>
+
+		<contribuente>
+		<cpf>333.333.333-33</cpf>
+		<rg>33.333.333-3</rg>
+		<nome>Daniel Silva</nome>
+		<data_nasc>13/09/1976</data_nasc>
+		<endereco>
+			<logradouro>Rua X</logradouro>
+			<numero>131</numero>
+			<bairro>Centro</bairro>
+			<cep>09623-052</cep>
+			<cidade>Ribeirão Pires</cidade>
+			<estado>SP</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 3333-3333</telefone>
+			<celular>(11) 93333-3333</celular>
+			<email>danielsilva@gmail.com</email>
+		</contato>
+		<renda>R$ 53.236,00</renda>
+		<foto>https://robohash.org/daniel</foto>
+		<conta>
+			<ag>331-2</ag>
+			<cc>237272-4</cc>
+		</conta>
+	</contribuente>
+
+		<contribuente>
+		<cpf>357.346.858-66</cpf>
+		<rg>43.734.489-4</rg>
+		<nome>Isabel Rodrigues</nome>
+		<data_nasc>14/01/1980</data_nasc>
+		<endereco>
+			<logradouro>Rua B</logradouro>
+			<numero>174</numero>
+			<bairro>Centro</bairro>
+			<cep>09370-950</cep>
+			<cidade>Ribeirão Pires</cidade>
+			<estado>SP</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 1231-1471</telefone>
+			<celular>(11) 99801-1748</celular>
+			<email>rodriguesIsa@gmail.com</email>
+		</contato>
+		<renda>R$ 25.239,00</renda>
+		<foto>https://robohash.org/isabel</foto>
+		<conta>
+			<ag>159-2</ag>
+			<cc>124342-7</cc>
+		</conta>
+	</contribuente>
+
+		<contribuente>
+		<cpf>111.111.111-11</cpf>
+		<rg>11.111.111-1</rg>
+		<nome>Albert Estenio</nome>
+		<data_nasc>26/06/1968</data_nasc>
+		<endereco>
+			<logradouro>Rua A</logradouro>
+			<numero>245</numero>
+			<bairro>Centro</bairro>
+			<cep>09350-470</cep>
+			<cidade>Ribeirão Pires</cidade>
+			<estado>SP</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 2351-7311</telefone>
+			<celular>(11) 91561-3781</celular>
+			<email>estenioberto@gmail.com</email>
+		</contato>
+		<renda>R$ 6.230,00</renda>
+		<foto>https://robohash.org/albert</foto>
+		<conta>
+			<ag>943-8</ag>
+			<cc>222642-3</cc>
+		</conta>
+	</contribuente>
+
+</receita>
